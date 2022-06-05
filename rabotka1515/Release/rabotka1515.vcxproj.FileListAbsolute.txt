@@ -1,0 +1,3 @@
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\Release\rabotka1515.MyForm.resources
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\Release\rabotka1515.vcxproj.GenerateResource.cache
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\Release\rabotka1515.vcxproj.AssemblyReference.cache

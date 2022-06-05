@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (rabotka1515.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  integral.cpp
+  MyForm.cpp
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\MyForm.h(976,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\MyForm.cpp(5,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  SuperTrans.cpp
+C:\Users\silp3\source\repos\rabotka1515\rabotka1515\MyForm.h(976,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  integral.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  rabotka1515.vcxproj -> C:\Users\silp3\source\repos\rabotka1515\Release\proekt1.exe
