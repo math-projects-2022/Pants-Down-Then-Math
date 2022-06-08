@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\silp3\source\repos\rabota2\rabotka1515\MyForm.cpp(5,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  SuperTrans.cpp
+  Создание кода...
+  integral.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  rabotka1515.vcxproj -> C:\Users\silp3\source\repos\rabota2\Release\rabotka1515.exe
